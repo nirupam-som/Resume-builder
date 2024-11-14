@@ -8,9 +8,7 @@ const port=3000;
 app.listen(port,(req,res)=>{
     console.log("app is listening at 3000");
 }); //server is ready to take req and generate responses
- 
-
-//clear
+ git 
 
 app.set("view engine","ejs");
 
