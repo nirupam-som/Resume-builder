@@ -9,7 +9,7 @@ app.listen(port,(req,res)=>{
     console.log("app is listening at 3000");
 }); //server is ready to take req and generate responses
 
-
+//hello i m dev
 
 
 app.set("view engine","ejs");
